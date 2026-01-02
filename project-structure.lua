@@ -1,0 +1,19 @@
+docker-mini/
+  docker-compose.yml
+  api/
+    package.json
+    server.js
+  web/
+    package.json
+    vite.config.js
+    tailwind.config.js
+    postcss.config.js
+    index.html
+    src/
+      main.js
+      App.vue
+      router.js
+      stores/app.js
+      pages/Home.vue
+      pages/About.vue
+      style.css
